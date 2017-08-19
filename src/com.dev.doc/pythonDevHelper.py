@@ -1,5 +1,5 @@
 """ 常用python 开发命令 语句   常用内置函数 总结 """
-#>>> dir(__builtins__)
+#>>> dir(__builtins__) 
 >>> dir(__builtins__)
 ['ArithmeticError', 'AssertionError', 'AttributeError', 'BaseException', 'Blocki
 ngIOError', 'BrokenPipeError', 'BufferError', 'BytesWarning', 'ChildProcessError
