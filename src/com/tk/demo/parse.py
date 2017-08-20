@@ -2,7 +2,7 @@
 # python+高德api实现自助找房
 # coding: utf8
 from bs4 import BeautifulSoup
-from urlparse import urljoin
+from urlparse import urljoin 
 import requests
 import csv
 import html5lib
